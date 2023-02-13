@@ -1,3 +1,3 @@
 # Ahk-Scripts
 
-Ahk scripts I use persnally.
+Ahk scripts I use personally.
