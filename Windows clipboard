@@ -1,0 +1,3 @@
+^!v::				  		; Ctrl shift V
+Send #v						; Clipboard
+Return
