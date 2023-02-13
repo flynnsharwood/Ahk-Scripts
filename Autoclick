@@ -1,0 +1,9 @@
+!+LButton::					; Multiclick 500 times, every 5 milliseconds 
+Loop 500
+{
+    SendInput {LButton down}
+    Sleep 5  ; increase sleep if it's still not working.
+    SendInput {LButton up}
+    ; insert sleep if there are still problems.
+}
+Return 
