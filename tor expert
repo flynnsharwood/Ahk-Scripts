@@ -1,0 +1,5 @@
+; opens tor expert bundle exe and internet options to quickly change your proxy to tor
+
+F1 & T::						; tor
+Run "path\to\file"
+Run, inetcpl.cpl   ; Internet options
