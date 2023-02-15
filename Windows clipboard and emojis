@@ -1,3 +1,7 @@
 ^!v::				  		; Ctrl shift V
 Send #v						; Clipboard
 Return
+
+^!.::					  	; Ctrl Shift .
+Send #.						; Emojis
+Return
