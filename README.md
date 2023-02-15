@@ -2,7 +2,7 @@
 
 Ahk scripts I use personally.
 
-(kind of like a spotify ad block)[https://github.com/flynnsharwood/Ahk-Scripts/blob/main/Semi_automatic_spotify_kill.ahk]
+]kind of like a spotify ad block](https://github.com/flynnsharwood/Ahk-Scripts/blob/main/Semi_automatic_spotify_kill.ahk)
 
 (https://github.com/flynnsharwood/Ahk-Scripts/blob/main/Hide%20Desktop%20Icons)[hide desktop icons]
 
